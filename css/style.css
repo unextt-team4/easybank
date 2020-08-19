@@ -1,0 +1,75 @@
+body{
+	font-size: 18px;
+	font-weight:300,400,700;
+	font-family: 
+}
+.had1{
+	height: 50px;
+	background:white;
+	border-bottom: 1px;
+}
+.logo{
+margin-left: 120px;
+margin-top: 16px;
+margin-bottom: 16px;
+}
+.link li{
+	text-decoration: 
+	list-style: none;
+	margin-left: 10px;
+	margin-right: 10px;
+	display: inline;
+}
+.link-box{
+	margin-left: 500px;
+	margin-top: -60px;
+}
+._button{
+	float: right;
+	margin-right: 150px;
+	margin-top: -45px;
+	border-radius: 24px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 16px;
+	padding-right: 16px;
+	background:rgb(0, 130, 80);
+}
+.link li a:hover{
+	text-decoration: inline;
+}
+.link li a{
+	text-decoration: none;
+}
+.secban{
+	background-image: url(../image/image-mockups.png);
+	background-repeat: no-repeat;
+	background-position: 130% 220%;
+	margin-right:-5px;
+	padding-bottom: 400px;
+	padding-top: 10px;
+	height: 500px;
+}
+
+.des1{
+	margin-left: 120px;
+	margin-top: 200px;
+}
+.desp1{
+	font-family: public sans-serif; 
+}
+.desh1{
+	font-size: 50px
+}
+.secb1{
+	border-radius: 24px;
+    padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 16px;
+	padding-right: 16px;
+	background:rgb(0, 130, 80)
+}
+
+.divbox{
+
+}
