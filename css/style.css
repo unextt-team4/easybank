@@ -2,11 +2,12 @@ body{
 	font-size: 18px;
 	font-weight:300,400,700;
 	font-family: 
+	
 }
 .had1{
 	height: 50px;
 	background:white;
-	border-bottom: 1px;
+	border-bottom: 10px;
 }
 .logo{
 margin-left: 120px;
@@ -41,35 +42,101 @@ margin-bottom: 16px;
 .link li a{
 	text-decoration: none;
 }
-.secban{
+
+.secba{
+	background-image: url(../image/bg-intro-desktop.svg);
+	background-repeat: no-repeat;
+	background-position: 540px -170px;
+	padding-top: 80px;
+	padding-left:80px;
+	margin-left: 150px;
+	background-size: 70%;
+}
+.des1{
 	background-image: url(../image/image-mockups.png);
 	background-repeat: no-repeat;
-	background-position: 130% 220%;
-	margin-right:-5px;
-	padding-bottom: 400px;
-	padding-top: 10px;
-	height: 500px;
-}
+	background-position: 150% 170%;
+	margin-right:-10px;
+	padding-bottom: 100px;
+	padding-top: 50px;
+	height: 700px;
+	margin-left: 16px;
+	padding-left: 16px;
+	margin-top:-80px;
+	top: 100px
 
-.des1{
-	margin-left: 120px;
-	margin-top: 200px;
 }
 .desp1{
 	font-family: public sans-serif; 
 }
 .desh1{
-	font-size: 50px
+	font-size: 30px;
+	margin-right:  120px;
 }
+
 .secb1{
 	border-radius: 24px;
     padding-top: 6px;
 	padding-bottom: 6px;
 	padding-left: 16px;
 	padding-right: 16px;
-	background:rgb(0, 130, 80)
+	background:rgb(0, 130, 80);
 }
-
-.divbox{
-
+.dh2{
+	padding-left: 120px;
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+.con1{
+	display: flex;
+	justify-content: space-around;
+	padding-left: 120px;
+}
+.yimg{
+	position: relative;
+	left: 100px;
+	padding-bottom: 50px;
+}
+.con1{
+	margin: 50px;
+}
+.ui1{
+	text-align: start;
+	font-size: 20px;
+	font: bolder;
+	color: rgb(93 0 130);
+}
+.p2{
+	text-align: start;
+	font-size: 15px;
+	white-space: nowrap;
+	padding-left: 100px;
+}
+.dl1{
+	padding-top: 100px;
+	padding-left: 120px;
+}
+.la-con{
+	display: flex;
+	justify-content: space-around;
+	padding-left: 120px;
+	background-color: rgb(0 130 80);
+}
+.la-img{
+	position: relative;
+	width: 200px;
+	height: 150px;
+}
+.la-p{
+	font-size: 10px;
+}
+.lwl1{
+	font: bolder;
+	padding-bottom: 50px;
+}
+.pp2{
+	padding-top: 50px;
+}
+.tt1{
+	font: bolder;
 }
